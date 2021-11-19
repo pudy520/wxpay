@@ -21,6 +21,11 @@ $ composer require vvv/weixin-pay
               'notify_url' => '回调地址',
           ];
   return   $wexin->wxpayandroid($params);
+  
+  //异步回调
+  
+    return   $wexin->notify();
+
 ```
 
 ## License
