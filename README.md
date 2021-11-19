@@ -9,7 +9,7 @@
 ## 安装
 
 ```Shell
-$ composer require vvv/test
+$ composer require vvv/weixin-pay
 ```
 ## 使用
 ```
