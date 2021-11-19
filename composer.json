@@ -1,0 +1,22 @@
+{
+    "name": "vvv/weixin-pay",
+    "description": "weixinPay",
+    "type": "1",
+    "license": "MIT",
+
+    "autoload": {
+        "psr-4": {
+            "Vvv\\WeixinPay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pudongyang",
+            "email": "294963672@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0"
+    }
+}
